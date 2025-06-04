@@ -5,9 +5,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Hemapriya**
-
-A 4.5 year experienced **Production Support Analyst** turned **aspiring Data Analyst**.
+Hi there! I'm **Hemapriya**, a ""Production Support Analyst** with 4.5 years of experience, now an **aspiring Data Analyst**.
 
 With a strong foundation in systems monitoring, automation, and data operations, I'm now focused on leveraging **Python**, **SQL**, and **visualization tools** to extract insights from data and solve real-world problems. I’m passionate about data storytelling and using analytics to drive smarter decisions.
 
